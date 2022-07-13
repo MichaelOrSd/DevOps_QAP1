@@ -25,23 +25,23 @@ Instructions:
 You are allowed to complete the assessment problems below in whatever way you can but please answer the following questions/points as part of your submission:
 
 1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
-
+20 minutes
 2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
-
+youtube for git revert
 3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
-
+No
 4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
-
+No
 5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
-
+1/5 very easy.
 
 Questions: 
 1. Create a new repo and upload file into the repo. Pull that file into local directory and make changes in files and upload them into repo.
 Done
 
 2. Create a new branch from master and upload some files into the branch and merge them into master branch
-Here's some changes to the new branch "MikesNewBranch"
-
+Done
 3. Clone the repo to local directory and make some changes to one of the file. Commit and push them into GitHub repo. Do git revert to revert the commited changes to previous version.
+Done
 
 Note: Submit your URL’s in teams for grading. Good Luck
